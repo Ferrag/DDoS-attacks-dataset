@@ -10,4 +10,10 @@ Dataset_7_class  (Multiclass classification)
 
 Dataset_13_class  (Multiclass classification)
 
-Please feel free to contact me (mohamed.amine.ferrag@gmail.com), if you need any further information. 
+In addition, we have preprocessed the TON-IoT dataset of IoT and IIoT sensors that contains 7 files proposed by Alsaedi et al. (2020).
+
+Sharafaldin, I., Lashkari, A. H., Hakak, S., & Ghorbani, A. A. (2019, October). Developing realistic distributed denial of service (DDoS) attack dataset and taxonomy. In 2019 International Carnahan Conference on Security Technology (ICCST) (pp. 1-8). IEEE.
+
+Alsaedi, A., Moustafa, N., Tari, Z., Mahmood, A., & Anwar, A. (2020). TON_IoT telemetry dataset: a new generation dataset of IoT and IIoT for data-driven Intrusion Detection Systems. IEEE Access, 8, 165130-165150.
+
+Please feel free to contact me (mohamed.amine.ferrag@gmail.com), if you need any further information.
