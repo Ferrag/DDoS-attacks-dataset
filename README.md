@@ -10,6 +10,12 @@ Dataset_7_class  (Multiclass classification)
 
 Dataset_13_class  (Multiclass classification)
 
+https://drive.google.com/open?id=1N_A3Yx5hb4j4O6xqEiI8aK-9-PZC1-3v
+
+https://drive.google.com/open?id=1MLRCEr2e4YT5lkamQEebMuYeBvZphpSa
+
+https://drive.google.com/open?id=1QbsopRgpe4Xl9re8jtVz1lZ42exHDTs_
+
 In addition, we have preprocessed the TON-IoT dataset of IoT and IIoT sensors that contains 7 files proposed by Alsaedi et al. (2020).
 
 Sharafaldin, I., Lashkari, A. H., Hakak, S., & Ghorbani, A. A. (2019, October). Developing realistic distributed denial of service (DDoS) attack dataset and taxonomy. In 2019 International Carnahan Conference on Security Technology (ICCST) (pp. 1-8). IEEE.
