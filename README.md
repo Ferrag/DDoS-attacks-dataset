@@ -4,17 +4,11 @@ This project contains three datasets having different modern reflective DDoS att
 After the pre-processing of the DCIC-DDoS2019 dataset, we have created three different datasets, named Dataset_2_class, Dataset_7_class, and Dataset_13_class, for the use of the AI techniques to evaluate and analyze the performance of intrusion detection systems for the IoT networks.
 
 
+Dataset_7_class  (Multiclass classification) https://drive.google.com/drive/folders/1MgWA8TzZP-3gDDVD3MobBTE1unIv0WfB
+
+Dataset_13_class  (Multiclass classification) https://drive.google.com/drive/folders/1thkQcl8OJnktWszEGU_KYQ4JYwploFZv
+
 Dataset_2_class  (Binary classification)
-
-Dataset_7_class  (Multiclass classification)
-
-Dataset_13_class  (Multiclass classification)
-
-https://drive.google.com/open?id=1N_A3Yx5hb4j4O6xqEiI8aK-9-PZC1-3v
-
-https://drive.google.com/open?id=1MLRCEr2e4YT5lkamQEebMuYeBvZphpSa
-
-https://drive.google.com/open?id=1QbsopRgpe4Xl9re8jtVz1lZ42exHDTs_
 
 In addition, we have preprocessed the TON-IoT dataset of IoT and IIoT sensors that contains 7 files proposed by Alsaedi et al. (2020).
 
