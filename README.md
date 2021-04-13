@@ -8,7 +8,7 @@ Dataset_7_class  (Multiclass classification) https://drive.google.com/drive/fold
 
 Dataset_13_class  (Multiclass classification) https://drive.google.com/drive/folders/1thkQcl8OJnktWszEGU_KYQ4JYwploFZv
 
-Dataset_2_class  (Binary classification)
+Dataset_2_class  (Binary classification) https://drive.google.com/drive/folders/1MLRCEr2e4YT5lkamQEebMuYeBvZphpSa
 
 In addition, we have preprocessed the TON-IoT dataset of IoT and IIoT sensors that contains 7 files proposed by Alsaedi et al. (2020).
 
